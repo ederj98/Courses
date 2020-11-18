@@ -1,0 +1,47 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+main {
+    width: 100%;
+    border: 10px solid yellowgreen;
+    padding: 20px 35px;
+    background-color: rgb(26, 6, 36);
+    height: 100vh;
+}
+
+h2{
+    background-color: seagreen;
+    text-align: center;
+    padding: 1.3rem;
+    width: 30%;
+    border-radius: 4px;
+    top: 1.5rem;
+    position: relative;
+    margin: 0 auto;
+    }
+    
+p{
+    background-color: skyblue;
+    text-align:center;
+    padding: 1.2rem;
+    border-radius: 4px;
+    margin: 0 auto;
+    top: 1.5rem;
+    position: relative;
+    width: 90%;
+}
+
+figure{
+    background-color: slateblue;
+    text-align: center;
+    width: 80%;
+    margin: 0 auto;
+}
+
+img {
+    width: 40rem;
+    height: 40rem;
+}

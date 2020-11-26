@@ -11,6 +11,6 @@
     margin: 0 auto;
 }
 
-.plans-container--slider {
+.plans-container--slider, .main-tables-container {
     justify-content: center;
 }

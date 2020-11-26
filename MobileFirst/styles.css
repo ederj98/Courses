@@ -152,6 +152,15 @@ main {
     color: #757575;
 }
 
+/* Tablas */
+.main-tables-container {
+    display: flex;
+    height: 400px;
+    overflow-x: scroll;
+    overscroll-behavior-x: contain;
+    scroll-snap-type: x proximity; /*Usar la x nos permite centrar el scroll en la tarjeta*/
+}
+
 .main-currency-table {
     width: 70%;
     min-width: 235px;
